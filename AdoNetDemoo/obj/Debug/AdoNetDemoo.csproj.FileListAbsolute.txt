@@ -1,0 +1,11 @@
+C:\Users\user\source\repos\CSharpUygulamalar\AdoNetDemoo\obj\Debug\AdoNetDemoo.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\CSharpUygulamalar\AdoNetDemoo\obj\Debug\AdoNetDemoo.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\source\repos\CSharpUygulamalar\AdoNetDemoo\obj\Debug\AdoNetDemoo.Form1.resources
+C:\Users\user\source\repos\CSharpUygulamalar\AdoNetDemoo\obj\Debug\AdoNetDemoo.Properties.Resources.resources
+C:\Users\user\source\repos\CSharpUygulamalar\AdoNetDemoo\obj\Debug\AdoNetDemoo.csproj.GenerateResource.cache
+C:\Users\user\source\repos\CSharpUygulamalar\AdoNetDemoo\obj\Debug\AdoNetDemoo.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\CSharpUygulamalar\AdoNetDemoo\bin\Debug\AdoNetDemoo.exe.config
+C:\Users\user\source\repos\CSharpUygulamalar\AdoNetDemoo\bin\Debug\AdoNetDemoo.exe
+C:\Users\user\source\repos\CSharpUygulamalar\AdoNetDemoo\bin\Debug\AdoNetDemoo.pdb
+C:\Users\user\source\repos\CSharpUygulamalar\AdoNetDemoo\obj\Debug\AdoNetDemoo.exe
+C:\Users\user\source\repos\CSharpUygulamalar\AdoNetDemoo\obj\Debug\AdoNetDemoo.pdb
